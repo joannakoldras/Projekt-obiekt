@@ -1,0 +1,13 @@
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\bin\Debug\netcoreapp3.1\Projekt-obiekt.exe
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\bin\Debug\netcoreapp3.1\Projekt-obiekt.deps.json
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\bin\Debug\netcoreapp3.1\Projekt-obiekt.runtimeconfig.json
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\bin\Debug\netcoreapp3.1\Projekt-obiekt.runtimeconfig.dev.json
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\bin\Debug\netcoreapp3.1\Projekt-obiekt.dll
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\bin\Debug\netcoreapp3.1\Projekt-obiekt.pdb
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\obj\Debug\netcoreapp3.1\Projekt-obiekt.csprojAssemblyReference.cache
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\obj\Debug\netcoreapp3.1\Projekt-obiekt.AssemblyInfoInputs.cache
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\obj\Debug\netcoreapp3.1\Projekt-obiekt.AssemblyInfo.cs
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\obj\Debug\netcoreapp3.1\Projekt-obiekt.csproj.CoreCompileInputs.cache
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\obj\Debug\netcoreapp3.1\Projekt-obiekt.dll
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\obj\Debug\netcoreapp3.1\Projekt-obiekt.pdb
+C:\Users\dzowa\OneDrive\Pulpit\Projekt-obiekt\Projekt-obiekt\Projekt-obiekt\obj\Debug\netcoreapp3.1\Projekt-obiekt.genruntimeconfig.cache
